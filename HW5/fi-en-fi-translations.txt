@@ -1,0 +1,50 @@
+eng	fin	The Comprehensive Treaty on Disarmament prohibits all armaments and armed forces.	Perusteellinen aseistariisuntasopimus kieltää kaikki aseistukset ja asevoimat.	Kattava aseriisuntasopimus kieltää kaiken aseistuksen ja asevoimat.
+eng	fin	Are your hands clean?	Ovatko kätesi puhtaat?	Ovatko kätesi puhtaat?
+eng	fin	Don't be so curious!	Älkää olko niin uteliaita!	Älä ole niin utelias!
+eng	fin	Excuse me, where's the restroom?	Anteeksi, missä on WC?	Anteeksi, missä vessa on?
+eng	fin	Go ask Tom.	Mene kysymään Tomilta.	Mene kysymään Tomilta.
+eng	fin	She's blonde.	Hän on blondi.	Hän on blondi.
+eng	fin	He's never satisfied.	Hän ei ole tyytyväinen koskaan.	Hän ei ole koskaan tyytyväinen.
+eng	fin	He thanked the host for a very enjoyable celebration.	Hän kiitti isäntää hyvin nautittavasta juhlasta.	Hän kiitti isäntää erittäin nautinnollisesta juhlasta.
+eng	fin	His help came at the last minute.	Hänen apunsa tuli viime tingassa.	Hänen apunsa tuli viime hetkellä.
+eng	fin	How many books did you read?	Kuinka monta kirjaa sinä luit?	Montako kirjaa luit?
+eng	fin	I'm lucky.	Olen onnekas.	Olen onnekas.
+eng	fin	I had breakfast on my balcony.	Mä söin aamiaisen mun parvekkeella.	Söin aamiaista parvekkeellani.
+eng	fin	I believe in him.	Uskon häneen.	Uskon häneen.
+eng	fin	I don't look like my parents at all.	En näytä yhtään vanhemmiltani.	En näytä lainkaan vanhemmiltani.
+eng	fin	I'll be right behind you.	Tulen heti perässä.	Tulen aivan perässäsi.
+eng	fin	I'll see him if he doesn't come too late.	Näen hänet jos hän ei tule liian myöhään.	Tapaan hänet, jos hän ei tule liian myöhään.
+eng	fin	I'll take it home with me.	Otan sen mukaan kotiin.	Vien sen kotiin.
+eng	fin	I'm playing the guitar now.	Soitan nyt kitaraa.	Soitan kitaraa nyt.
+eng	fin	Is French a difficult language?	Onko ranska vaikea kieli?	Onko ranska vaikea kieli?
+eng	fin	I thought Tom was stealing from us.	Luulin, että Tom varasti meiltä.	Luulin Tomin varastavan meiltä.
+eng	fin	I watch very little TV.	Mä katon tosi vähän telkkarii.	Katson hyvin vähän televisiota.
+eng	fin	I went to the beach.	Menin rannalle.	Menin rannalle.
+eng	fin	I wonder if Tom can win.	Pystyyköhän Tomi voittaa.	Mahtaakohan Tom voittaa?
+eng	fin	I work all day except Sundays.	Teen töitä kaikkina päivinä, paitsi sunnuntaisin.	Teen töitä koko päivän paitsi sunnuntaisin.
+eng	fin	Grandpa bought it for me.	Isoisä osti sen minulle.	Isoisä osti sen minulle.
+eng	fin	My son lied to me.	Minun poikani valehteli minulle.	Poikani valehteli minulle.
+eng	fin	My whole body itches.	Koko vartaloani kutittaa.	Koko kehoni kutittaa.
+eng	fin	Not in a million years!	Emme ikimaailmassa!	Ei miljoonaan vuoteen!
+eng	fin	Can you open the window?	Avaisitko ikkunan?	Voitko avata ikkunan?
+eng	fin	He hasn't spoken to me yet.	Hän ei ole puhunut minulle vielä.	Hän ei ole puhunut minulle vielä.
+eng	fin	You just mind your own business!	Pidä sinä vaan huoli omista asioistasi!	Pidä vain huoli omista asioistasi!
+eng	fin	That's bad news.	Ne ovat huonoja uutisia.	Huonoja uutisia.
+eng	fin	The authorities managed to stabilize the currency.	Viranomaiset onnistuivat vakauttamaan valuutan.	Viranomaiset onnistuivat vakauttamaan valuutan.
+eng	fin	The Earth revolves around the Sun.	Maa pyörii Auringon ympäri.	Maa kiertää Aurinkoa.
+eng	fin	There is no limit to human desires.	Ihmisen haluilla ei ole rajaa.	Inhimillisillä haluilla ei ole rajoja.
+eng	fin	They really did have a good time.	Heillä tosiaan oli hauskaa.	Heillä oli todella hauskaa.
+eng	fin	They hated Tom.	He vihasivat Tomia.	He vihasivat Tomia.
+eng	fin	They are really useful.	Ne ovat todella hyödyllisiä.	Ne ovat todella hyödyllisiä.
+eng	fin	Tom asked Mary to buy him a ticket.	Tomi pyysi Maria ostamaan hänelle lipun.	Tom pyysi Marya ostamaan hänelle lipun.
+eng	fin	Tom needs a driver's license.	Tomi tarvitsee ajokortin.	Tom tarvitsee ajokortin.
+eng	fin	Tom shook his fist at Mari.	Tom heristeli nyrkkiään Marille.	Tom pudisti nyrkkiään Marille.
+eng	fin	Tom wanted to sit down for a few seconds.	Tom tahtoi istua alas pariksi sekunniksi.	Tom halusi istua alas muutamaksi sekunniksi.
+eng	fin	Tom was confused at first.	Tomi oli aluksi hämmentynyt.	Tom hämmentyi aluksi.
+eng	fin	We'll meet in Boston this week.	Me tapaamme tällä viikolla Bostonissa.	Tapaamme tällä viikolla Bostonissa.
+eng	fin	Were you and Tom together for a long time?	Olitteko sinä ja Tom yhdessä pitkään?	Olitteko Tomin kanssa yhdessä pitkään?
+eng	fin	We should respect our ancestors.	Meidän tulisi kunnioittaa esivanhempiamme.	Meidän tulee kunnioittaa esi-isiämme.
+eng	fin	What's missing?	Mitä puuttuu?	Mitä puuttuu?
+eng	fin	Who was interested?	Ketä kiinnosti?	Kuka oli kiinnostunut?
+eng	fin	You have two choices.	Sinulla on kaksi vaihtoehtoa.	Sinulla on kaksi vaihtoehtoa.
+eng	fin	You'll never know unless you try.	Sinä et saa koskaan tietää, jollet sinä kokeile.	Et saa koskaan tietää, ellet yritä.

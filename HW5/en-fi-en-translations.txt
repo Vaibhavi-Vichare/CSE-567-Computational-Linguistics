@@ -1,0 +1,50 @@
+fin	eng	Suuri aalto käänsi hänen kanoottinsa.	A big wave turned over his canoe.	A great wave turned his canoe.
+fin	eng	Heidän tarvitsi vain pysähtyä.	All they had to do was stop.	All they had to do was stop.
+fin	eng	Sinun tarvitsee vain odottaa.	All you need to do is wait.	All you have to do is wait.
+fin	eng	Hiljaa!	Be quiet!	Shut up!
+fin	eng	Bingo!	Bingo!	Bingo!
+fin	eng	Kaikki huokaisivat helpotuksesta.	Everyone breathed a sigh of relief.	Everyone sighed with relief.
+fin	eng	Auta vähän.	Give us a hand.	Give me a hand.
+fin	eng	Hänen äänensä ei kanna.	Her voice doesn't carry.	His voice does not carry.
+fin	eng	Hän kävelee nopeasti.	He walks quickly.	He walks fast.
+fin	eng	Hevoset ovat hyvin herkkiä eläimiä.	Horses are very sensitive animals.	Horses are very sensitive animals.
+fin	eng	Minä luen kirjaa.	I am reading the book.	I'm reading a book.
+fin	eng	En oikeastaan käynyt collegea.	I didn't actually go to college.	I didn't really go to college.
+fin	eng	Minulla ei ole tietokonetta.	I don't have a computer.	I don't have a computer.
+fin	eng	Jos englanti kelpasi Jeesukselle, se kelpaa minullekin.	If English was good enough for Jesus Christ, it's good enough for me.	If English was good enough for Jesus, it's good enough for me.
+fin	eng	Minun on mentävä sairaalaan.	I have to go to hospital.	I have to go to the hospital.
+fin	eng	Syön täällä.	I'll eat here.	I eat here.
+fin	eng	Nälkä!	I'm hungry!	Hungry!
+fin	eng	Ei olisi pitänyt kirjautua ulos.	I shouldn't have logged off.	I shouldn't have checked out.
+fin	eng	Se oli rankkaa.	It was tough.	It was tough.
+fin	eng	Mietin, voiko Tom voittaa.	I wonder whether Tom can win.	I wonder if Tom can win.
+fin	eng	Jalkani!	My foot!	My leg!
+fin	eng	Kiväärini on tyhjä.	My rifle's empty.	My rifle is empty.
+fin	eng	Setäni palkkasi minut.	My uncle hired me.	My uncle hired me.
+fin	eng	Älä kuole.	Please don't die.	Don't die.
+fin	eng	Rasismi ja homofobia ovat edelleen suuria ongelmia ammattilaisjalkapallossa.	Racism and homophobia are still major problems in professional football.	Racism and homophobia remain major problems in professional football.
+fin	eng	Hän oli uimassa.	She was swimming.	He was swimming.
+fin	eng	Jotkut eläimet nukkuvat enemmän kuin toiset.	Some animals sleep more than others.	Some animals sleep more than others.
+fin	eng	Jonkun on kerrottava Tomille, mitä tapahtui.	Someone needs to tell Tom what happened.	Someone has to tell Tom what happened.
+fin	eng	Anteeksi, unohdin.	Sorry, I forgot.	I'm sorry, I forgot.
+fin	eng	"Tädin vanhempi poika muutti Itävaltaan pääkaupunkiin." "Serkkusi Pete Sydneyyn?"	"The elder son of my aunt moved to Austria to the capital city." "Your cousin Pete to Sydney?"	"Aunt's older son moved to the Austrian capital." "Your cousin Pete Sydney?"
+fin	eng	Kuningattareksi oli ehdolla kuusi ehdokasta.	There were six candidates for queen.	The Queen was nominated by six candidates.
+fin	eng	Tämä on adverbi.	This is an adverb.	This is an adverb.
+fin	eng	Tämä on ensimmäinen kerta, kun nousen veneeseen.	This is the first time I've ever got on a boat.	This is the first time I've ever boarded a boat.
+fin	eng	Tom, englantilainen, puhui virheetöntä, aksentista vapaata saksaa, ellen olisi osannut paremmin, olisin ottanut hänet saksalaiseksi erittäin hyvästä perheestä.	Tom, an Englishman, spoke impeccable, accent-free German. If I had not known better, I would have taken him for a German from a very good family.	Tom, an Englishman, spoke flawless, accent-free German, if I had not known better, I would have taken him as a German from a very good family.
+fin	eng	Tom suuttui.	Tom got upset.	Tom was angry.
+fin	eng	Tomilla on epämiellyttävä, kova ääni.	Tom has an unpleasant, loud voice.	Tom has an unpleasant, loud voice.
+fin	eng	Tom lähti pois.	Tom has gone away.	Tom went away.
+fin	eng	Tomi tykkää puhua golfista.	Tom likes to talk about golf.	Tom likes to talk about golf.
+fin	eng	Tom uhrasi henkensä puolestamme.	Tom sacrificed his life for us.	Tom sacrificed his life for us.
+fin	eng	Tom päästi linnun vapaaksi.	Tom set the bird free.	Tom let the bird go free.
+fin	eng	Tom sammutti television.	Tom shut the TV off.	Tom turned off the TV.
+fin	eng	Tom ei hengitä.	Tom's not breathing.	Tom's not breathing.
+fin	eng	Tomin romaani on käännetty ranskaksi.	Tom's novel has been translated into French.	Tom's novel has been translated into French.
+fin	eng	Tomin suunnitelma on varsin hyvä.	Tom's plan is quite good.	Tom's plan is quite good.
+fin	eng	Tom oli typerä.	Tom was foolish.	Tom was stupid.
+fin	eng	Saimme nimettömän puhelun.	We got an anonymous call.	We got an anonymous call.
+fin	eng	Mitä kerroit hänelle minusta?	What did you tell him about me?	What did you tell him about me?
+fin	eng	Kun kuulen tämän laulun, ajattelen sinua ja kaipaan sinua.	When I hear this song, I think of you, and miss you.	When I hear this song, I think of you and I miss you.
+fin	eng	Pidä kädet puhtaina.	You must keep your hands clean.	Keep your hands clean.
+fin	eng	Hiuksesi näyttävät hyviltä.	Your hair looks nice.	Your hair looks good.
